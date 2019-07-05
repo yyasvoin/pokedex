@@ -1,0 +1,20 @@
+{
+  "name": "@york-u-fs1010/pokedex",
+  "private": true,
+  "version": "1.0.0",
+  "description": "FS1010: Pokedex",
+  "scripts": {
+    "start": "http-server --cors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "contributors": [
+    "Brian Gould",
+    "Matthew Palmer"
+  ],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "http-server": "^0.11.1"
+  }
+}
